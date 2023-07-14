@@ -1,0 +1,7 @@
+- `git init`
+- `git clone <URL>`
+- `git status`
+- `git add`
+- `git commit`
+- `git commit -m ""`
+-`git log`
