@@ -4,4 +4,5 @@
 - `git add`
 - `git commit`
 - `git commit -m ""`
--`git log`
+- `git log`
+- `git diff command`
