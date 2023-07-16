@@ -1,3 +1,4 @@
+# Notes
 - `git init`
 - `git clone <URL>`
 - `git status`
@@ -6,6 +7,7 @@
 - `git commit -m ""`
 - `git log`
 - `git diff command`
+ # Remotes 
 - `git remote -v`
 - `git remote rm <remove the origin`
 - `git add origin main <adds a https: git client`
