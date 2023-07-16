@@ -6,3 +6,8 @@
 - `git commit -m ""`
 - `git log`
 - `git diff command`
+- `git remote -v`
+- `git remote rm <remove the origin`
+- `git add origin main <adds a https: git client`
+- `git push <tells whre the repository to go >`
+- `git pull <sync the local repo with the remote>`
