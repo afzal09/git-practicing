@@ -7,7 +7,7 @@
 - `git commit -m ""`
 - `git log`
 - `git diff command`
- # Remotes 
+# Remotes 
 - `git remote -v`
 - `git remote rm <remove the origin`
 - `git add origin main <adds a https: git client`
