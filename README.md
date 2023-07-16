@@ -11,3 +11,4 @@
 - `git add origin main <adds a https: git client`
 - `git push <tells whre the repository to go >`
 - `git pull <sync the local repo with the remote>`
+- `git pull <where = on local machine> <what = from remote>`
